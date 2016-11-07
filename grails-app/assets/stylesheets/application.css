@@ -10,7 +10,6 @@
 *= require typography.css
 *= require reset.css
 *= require screen.css
-*= require print.css
 *= require style.css
 *= require_self
 */
