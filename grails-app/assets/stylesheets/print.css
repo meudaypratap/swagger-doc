@@ -1348,7 +1348,7 @@
   max-height: none;
 }
 .swagger-section .swagger-ui-wrap .body-textarea {
-  width: 100px;
+  width: 300px;
 }
 .swagger-section .swagger-ui-wrap input.parameter {
   width: 100px;
